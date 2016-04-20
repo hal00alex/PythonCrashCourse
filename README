@@ -1,0 +1,19 @@
+Welcome to my Python Crash Course. 
+You might notice that I already have 2 crash courses. 
+This one combines the 2 and divides each topic into its own file. 
+Here are the topics we will be covering: 
+-Hello World and Printing 
+-Strings
+-Lists
+-If Statements
+-Loops 
+-Dictionaries 
+-Taking User Inputs 
+-Writing to Text Files 
+-Subroutines/MultipleFunctions 
+-Importing Libraries
+-Classes 
+
+Each file will have directions, code, and a small excerise for the user 
+Then there will be 2 larger programs with solutions so the user can combine everything they learned. 
+I hope you enjoy my more interactive and a little more classroom friendly set up.
